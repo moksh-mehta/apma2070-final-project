@@ -1,9 +1,6 @@
-# Final Project — Learning Dynamical Systems from Data
+APMA 2070 final course project on the nonlinear pendulum: learning dynamical systems from data. 
 
-By Moksh Mehta
-
-APMA 2070 course project on the nonlinear pendulum:
-compares **FNN**, **SympNet**, and **PINN** approaches for parameter
+Compares **FNN**, **SympNet**, and **PINN** approaches for parameter
 estimation and long-time trajectory prediction.
 
 ## Headline results
